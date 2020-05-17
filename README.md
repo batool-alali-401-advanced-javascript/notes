@@ -7,7 +7,7 @@
 ### Links and Resources
 
 ### Submission PR
-- [submission PR](https://github.com/batool-alali-401-advanced-javascript/lab-00/pull/1)
+- [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/1)
 
 ### Setup
 - No setup requirements
