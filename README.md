@@ -1,4 +1,4 @@
-## LAB - Class 01
+## LAB - Class 02
 
 ### Project: Notesy
 
@@ -7,7 +7,9 @@
 ### Links and Resources
 
 ### Submission PR
-- [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/1)
+- [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/3)
+- [ci/cd](https://github.com/batool-alali-401-advanced-javascript/notes/runs/686940178) (GitHub Actions)
+
 
 ### Setup
 - No setup requirements
@@ -18,6 +20,12 @@
 
 ### How to use your library 
 - minimist => `$ npm i minimist`
+
+#### Tests
+
+- `npm run lint`
+- `npm test`
+
 
 ### UML
 ![UML Diagram](UML.jpg)
