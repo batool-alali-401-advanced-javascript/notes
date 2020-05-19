@@ -1,4 +1,4 @@
-## LAB - Class 01
+## LAB - Class 03
 
 ### Project: Notesy
 
@@ -7,17 +7,22 @@
 ### Links and Resources
 
 ### Submission PR
-- [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/3)
+- [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/6)
 
 ### Setup
-- No setup requirements
-
+.env
 ### How to initialize/run your application (where applicable)
  - `$ npm init -y`.
- - `$ node notes.js [-a || --add] '<any note>'`.  P.S (the note must be within quotes)
+ - `$ node index.js [-a || --add] '<any note>'  --category <'any category'>`.  P.S (the note must be within quotes)
+ - `$ node index.js --list <'category'>`
+ - `$ node index.js --delete <'id'>`
+
+
 
 ### How to use your library 
 - minimist => `$ npm i minimist`
+- dotenv =>   `$ npm i dotenv`
+- mongoose =>  `$ npm i mongoose`
 
 ### UML
-![UML Diagram](UML.jpg)
+![UML Diagram](mongo.png)
