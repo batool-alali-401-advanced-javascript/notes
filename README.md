@@ -1,4 +1,4 @@
-## LAB - Class 03
+## LAB - Class 04
 
 ### Project: Notesy
 
@@ -17,7 +17,8 @@
  - `$ node index.js --list <'category'>`
  - `$ node index.js --delete <'id'>`
 
-
+### tests
+I didn't finish the tests yet!
 
 ### How to use your library 
 - minimist => `$ npm i minimist`
