@@ -7,7 +7,8 @@
 ### Links and Resources
 
 ### Submission PR
-- [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/7)
+
+- [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/9)
 
 ### Setup
 .env
