@@ -8,10 +8,10 @@
 
 ### Submission PR
 - [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/10)
-- [CI/Action](https://github.com/batool-alali-401-advanced-javascript/notes/actions)
+- [CI/Action](https://github.com/batool-alali-401-advanced-javascript/notes/runs/715194297)
 
 ### Setup
-.env
+.env (MONGODB_URI)
 ### How to initialize/run your application (where applicable)
  - `$ npm init -y`.
  - `$ node index.js [-a || --add] '<any note>'  --category <'any category'>`.  P.S (the note must be within quotes)
