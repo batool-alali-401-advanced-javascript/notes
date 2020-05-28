@@ -7,7 +7,8 @@
 ### Links and Resources
 
 ### Submission PR
-- [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/7)
+- [submission PR](https://github.com/batool-alali-401-advanced-javascript/notes/pull/10)
+- [CI/Action](https://github.com/batool-alali-401-advanced-javascript/notes/actions)
 
 ### Setup
 .env
@@ -18,7 +19,8 @@
  - `$ node index.js --delete <'id'>`
 
 ### tests
-I didn't finish the tests yet!
+- lint test
+- jest test 
 
 ### How to use your library 
 - minimist => `$ npm i minimist`
