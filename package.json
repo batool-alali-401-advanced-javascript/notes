@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/batool-alali-401-advanced-javascript/notes#readme",
   "dependencies": {
+    "@code-fellows/supergoose": "^1.0.2",
     "dotenv": "^8.2.0",
+    "faker": "^4.1.0",
     "minimist": "^1.2.5",
     "mongoose": "^5.9.15"
   },
